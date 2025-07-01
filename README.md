@@ -1,6 +1,5 @@
-# Smart-Drone-Project
+# Smart Pesticide Spraying Drone
 IoT + embedded system project to automate pesticide spraying using image processing.
- Smart Pesticide Spraying Drone
 
 This project is a smart agricultural drone system designed to detect diseased crops using a camera and machine learning, and spray the appropriate pesticide from one of four tanks autonomously. It combines embedded systems, image processing, and drone flight control for precision farming.
 
