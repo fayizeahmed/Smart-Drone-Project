@@ -7,7 +7,7 @@ This project is a smart agricultural drone system designed to detect diseased cr
 
 To automate the process of identifying diseased crop regions and spraying pesticides efficiently using an embedded system-based quadcopter.
 
-## 🧠 Technologies Used
+## * Technologies Used
 
 - **Microcontroller**: Raspberry Pi 4
 - **Flight Controller**: KK2.1.5
